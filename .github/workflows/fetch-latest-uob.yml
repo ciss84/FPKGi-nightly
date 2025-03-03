@@ -1,4 +1,4 @@
-name: Update UnityOrbisBridge Files2
+name: Update UnityOrbisBridge Files
 
 on:
   workflow_dispatch:
